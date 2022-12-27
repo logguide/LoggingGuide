@@ -1,6 +1,6 @@
 # Standard
 
-A Standard is the implementation of one or more [Policy](policy.md) requirements. For example given the following policy statement:
+A Standard is the implementation of one or more [Policy](../glossarypolicy.md) requirements. For example given the following policy statement:
 
 > A household policy may be that the home should be maintained at a comfortable temperature year round.
 
