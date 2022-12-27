@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Open Logging Guide',
   tagline: 'Don\'t Choose Ingornance',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://futureuse.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/logguide/website/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -57,9 +57,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Open Logging Guide',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Open Logging Guide Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -84,7 +84,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Open Logging Guide',
                 to: '/docs/intro',
               },
             ],
