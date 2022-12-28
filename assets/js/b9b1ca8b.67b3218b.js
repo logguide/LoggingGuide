@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6595],{1209:e=>{e.exports=JSON.parse('{"title":"Model Policies","slug":"/category/model-policies","permalink":"/docs/category/model-policies","navigation":{"previous":{"title":"Intro","permalink":"/docs/intro"},"next":{"title":"Standard","permalink":"/docs/model-policies/GeneralLog"}}}')}}]);
