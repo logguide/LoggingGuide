@@ -5,34 +5,34 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/welcome1.svg').default,
     description: (
       <>
-        An observable system is a journey. Understand how to start
+        An observable system is a journey. Understand how to start.
       </>
     ),
   },
   {
     title: 'Focus on What Matters',
-    // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/welcome2.svg').default,
     description: (
       <>
-        Data without context has not value understand meta data requirements to be effective
+        Data without context has not value understand meta data requirements to be effective.
       </>
     ),
   },
   {
     title: 'Powered by React',
-    // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/welcome3.svg').default,
     description: (
       <>
-        Don't be an outlier, ensure meaninful data is retained.
+        Don't be an outlier, ensure meaningful data is retained.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">

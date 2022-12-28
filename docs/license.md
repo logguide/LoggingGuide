@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9999
+title: License
 ---
 
 # Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International

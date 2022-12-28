@@ -60,7 +60,7 @@ const config = {
         title: 'Open Logging Guide',
         logo: {
           alt: 'Open Logging Guide Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo_200.svg',
         },
         items: [
           {
