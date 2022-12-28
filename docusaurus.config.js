@@ -81,15 +81,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Open Logging Guide',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
             title: 'Community',
             items: [
               // {
@@ -101,8 +92,8 @@ const config = {
               //   href: 'https://discordapp.com/invite/docusaurus',
               // },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Discussions',
+                href: 'https://github.com/logguide/LoggingGuide/discussions',
               },
             ],
           },
@@ -120,7 +111,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Ryan Faircloth.`,
       },
       prism: {
         theme: lightCodeTheme,
