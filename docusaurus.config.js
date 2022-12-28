@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Open Logging Guide',
   tagline: 'Don\'t Choose Ingornance',
-  url: 'https://futureuse.com',
-  baseUrl: '/',
+  url: 'https://logguide.github.io/LoggingGuide',
+  baseUrl: '/LoggingGuide/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -92,33 +92,33 @@ const config = {
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
+              // {
+              //   label: 'Stack Overflow',
+              //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              // },
+              // {
+              //   label: 'Discord',
+              //   href: 'https://discordapp.com/invite/docusaurus',
+              // },
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/docusaurus',
               },
             ],
           },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
+          // {
+          //   title: 'More',
+          //   items: [
+          //     {
+          //       label: 'Blog',
+          //       to: '/blog',
+          //     },
+          //     {
+          //       label: 'GitHub',
+          //       href: 'https://github.com/facebook/docusaurus',
+          //     },
+          //   ],
+          // },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
