@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Open Logging Guide',
   tagline: 'Don\'t Choose Ingornance',
-  url: 'https://logguide.github.io/LoggingGuide',
+  url: 'https://logguide.github.io',
   baseUrl: '/LoggingGuide/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
